@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/userRobo/static/css/main.cd6cdac7.chunk.css",
+    "main.js": "/userRobo/static/js/main.ad2c0021.chunk.js",
+    "main.js.map": "/userRobo/static/js/main.ad2c0021.chunk.js.map",
+    "runtime-main.js": "/userRobo/static/js/runtime-main.46e8ec2a.js",
+    "runtime-main.js.map": "/userRobo/static/js/runtime-main.46e8ec2a.js.map",
+    "static/css/2.fe359a49.chunk.css": "/userRobo/static/css/2.fe359a49.chunk.css",
+    "static/js/2.ce470991.chunk.js": "/userRobo/static/js/2.ce470991.chunk.js",
+    "static/js/2.ce470991.chunk.js.map": "/userRobo/static/js/2.ce470991.chunk.js.map",
+    "static/js/3.71365909.chunk.js": "/userRobo/static/js/3.71365909.chunk.js",
+    "static/js/3.71365909.chunk.js.map": "/userRobo/static/js/3.71365909.chunk.js.map",
+    "index.html": "/userRobo/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/userRobo/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.cd6cdac7.chunk.css.map": "/userRobo/static/css/main.cd6cdac7.chunk.css.map",
+    "static/js/2.ce470991.chunk.js.LICENSE.txt": "/userRobo/static/js/2.ce470991.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46e8ec2a.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.ce470991.chunk.js",
+    "static/css/main.cd6cdac7.chunk.css",
+    "static/js/main.ad2c0021.chunk.js"
+  ]
+}
